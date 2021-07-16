@@ -1,0 +1,10 @@
+sqlalchemy
+pyodbc
+pandas
+json
+lxml
+openpyxl
+xlsxwriter
+xlwt
+csv
+python-dotenv
